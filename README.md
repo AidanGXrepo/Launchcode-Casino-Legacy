@@ -1,3 +1,4 @@
-#Deprecated!
+DEPRECATED
 
-Launch here: launchcode.nl
+
+This used to host launchcode when it was only a casino
